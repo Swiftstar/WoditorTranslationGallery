@@ -77,8 +77,8 @@
 76:[RO] OS Language
 77: -----
 78: -----
-79: -----
-80: -----
+79:[RO] Game Name (Main)
+80:[RO] Game Name (Extra)
 81: -----
 82: -----
 83: -----
